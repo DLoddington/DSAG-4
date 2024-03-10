@@ -1,0 +1,7 @@
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\bin\Debug\TaskBAssessed.exe.config
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\bin\Debug\TaskBAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\bin\Debug\TaskBAssessed.pdb
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\obj\Debug\TaskBAssessed.csproj.AssemblyReference.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\obj\Debug\TaskBAssessed.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\obj\Debug\TaskBAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 4\Assessment\TaskBAssessed\obj\Debug\TaskBAssessed.pdb
